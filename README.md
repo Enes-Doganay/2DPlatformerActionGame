@@ -1,4 +1,9 @@
 # 2D Platformer Action Game
+
+
+https://github.com/Enes-Doganay/2DPlatformerActionGame/assets/71710802/cdd6e907-335c-4d0e-a373-ba5c01fec3a0
+
+
 # Game Description
 This is an in-development 2D RPG platformer action game. The game features an RPG inventory system, allowing players to equip their characters with swords and armor. Character controls are managed using a state machine. Players can move their characters with the WASD keys. Characters can slide on the ground using the "Shift" key and dash in the air. Additionally, characters can cling to walls upon contact and wall-to-wall jump. Characters can also cling to protrusions when found.
 
